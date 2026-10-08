@@ -6,7 +6,7 @@ numpy
 pandas
 scikit-learn
 joblib
-SQLAlchemy==2.*
+SQLAlchemy>=2,<2.1
 alembic
 psycopg2-binary
 python-jose[cryptography]
